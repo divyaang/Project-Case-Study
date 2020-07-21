@@ -2,7 +2,7 @@
 
 This Project was done as part of Data Science and Machine Learning Course offered by Coding Ninjas. 
 
-The dataset used in the project dataset has funding information of the Indian startups from January 2015 to August 2017.
+The dataset used in the project dataset has funding information of the Indian startups from January 2015 to August 2017. The project was divided into two parts: Part-I and Part-II
 
 PART - I
 
